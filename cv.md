@@ -14,6 +14,10 @@ I am graduating from high school as a physics teacher. I want to learn how to pr
 - HTML 5
 - CSS 3
 
+## Education :
+
+I love to learn from videos from YouTube channels: Freelancer for life and Layout from 0 to 1.
+
 ## Language skills :
 
     А2
