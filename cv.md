@@ -1,0 +1,19 @@
+# Iryna Ischenko
+
+## My contacts:
+
+phone-number: +380637237918 </br>
+email : ischchenko.i@gmail.com
+
+## About me :
+
+I am graduating from high school as a physics teacher. I want to learn how to program. And try yourself in this area.
+
+## Skills:
+
+- HTML 5
+- CSS 3
+
+## Language skills :
+
+    А2
